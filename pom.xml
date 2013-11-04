@@ -4,4 +4,5 @@
     <groupId>gr.dvm</groupId>
     <artifactId>test</artifactId>
     <!-- Thing to forget -->
+    <!-- This is from devel branch -->
 </project>
